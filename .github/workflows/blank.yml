@@ -1,0 +1,6 @@
+# Alexa integration with Google Assistant
+
+[![Codacy Badge][codacy-img]][codacy-link] 
+
+This skill provides you full Google Assistant functionality through your Alexa enabled devices as if you were speaking
+to a Google Home. The only problem is that you'll end up really annoyed by constantly repeating *Alexa, ask Google
